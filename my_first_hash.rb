@@ -22,7 +22,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
- the_manisfest["key3"]
+ the_manisfest["oil paintings"]
  
 end
 

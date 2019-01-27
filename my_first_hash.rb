@@ -11,6 +11,7 @@ the_manisfest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintin
 
 
 
+
 end
 
 def retrieval

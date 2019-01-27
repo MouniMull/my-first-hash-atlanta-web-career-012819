@@ -1,5 +1,5 @@
 def my_hash
-my_hash = {1 = "first int", 
+my_hash = {"first int" => 1, 
 
   
 end

@@ -22,7 +22,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
- shipping_manisfest[3]
+ shipping_manisfest["key3"]
  
 end
 
